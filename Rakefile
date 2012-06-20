@@ -13,15 +13,13 @@ require 'rake'
 
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
-  # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "bubbles"
   gem.homepage = "http://github.com/mustafasezgin/bubbles"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Monitoring Framework to export custom application metrics}
+  gem.description = %Q{Library to monitor metrics of an application and export them to a separate process for archiving and analysis}
   gem.email = "mov.rdx@gmail.com"
   gem.authors = ["Mustafa Sezgin"]
-  # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
 
