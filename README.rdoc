@@ -3,6 +3,8 @@
 Ruby Library that helps monitor and export custom metrics to separate processes for archival and analysis. Initial process that will be supported
 is going to be Performance Co-Pilot (PCP).
 
+Development towards V0.1 still in progress... 
+
 == Copyright
 
 Copyright (c) 2012 Mustafa Sezgin. See LICENSE.txt for
